@@ -1,0 +1,10 @@
+div{
+    background-color:tomato;
+    margin:10px;
+}
+.image_section{
+    height:300px;
+    width:300px;
+    background-image:url(../style/images.jpg);
+    background-repeat:no-repeat;
+}
