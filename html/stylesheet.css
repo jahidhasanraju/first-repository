@@ -1,0 +1,13 @@
+#header1{
+    color:aqua
+    text-align: center;
+    text-size:50%;
+}
+#parent{
+    flex-direction: column;
+    text-align: center;
+}
+.inputtag{
+    
+    margin: 4px;
+}
